@@ -1,0 +1,190 @@
+p{
+    margin: -1px;
+}
+body{
+    margin: 0px;
+    font-family: 'Comforter', cursive;
+}
+/* --------header----- */
+#header{
+    text-align: center;
+    background-color:#312f2f ;
+}
+.nav-item,h5,.navbar-brand{
+padding: 2% 5%;
+font-size: 2rem;
+}
+#navfont{
+    background-color: #312f2f;
+} 
+.offcanvas-header{
+    background-color: #FFE05D;
+}
+/* ----------intro------- */
+#port{
+    color: #FFE05D;
+    font-size: 3rem;
+}
+#yello{
+    color: #FFF8CD;
+}
+#ye{
+    color: #FFF8CD;
+}
+#yel{
+    color: #FFF8CD;
+}
+#yell{
+    color: #FFF8CD;
+}
+
+
+
+
+
+
+#intro{
+    background-color: #FFE05D;
+    text-align: center;
+}
+.col h1{
+    padding-top: 4%;
+    font-size: 5.8rem;
+    font-weight: 900;
+}
+.col p{
+    font-size: 2rem;
+}
+.bird{
+    width: 80%;
+}
+#scean{
+    width: 90%;
+}
+/* ---------skills---------- */
+#Skills{
+    padding: 4% 10%;
+    text-align: center;
+    background-color: #FFF8CD;
+}
+.carousel{
+    padding: 3% 7%;
+}
+#ski{
+    font-weight: 900;
+    font-size: 600%;
+}
+.container-fluid h3{
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 300%;
+    font-weight: 900;
+    color: #312f2f;
+
+}
+.skills-words{
+    padding: 4rem;
+font-size: 160%;
+font-family: 'Tomorrow', sans-serif;
+color:#312f2f ;
+}
+.img1{
+    width: 17%;
+}
+/* -----------footer--------- */
+#foote{
+    background-color:#312f2f ;
+    text-align: center;
+}
+#cc a{
+    color: #FFE05D;
+    text-decoration: none;
+    font-size: 2.5rem;
+}
+#cc{
+    padding: 1rem;
+}
+.foot a{
+    padding: 3% 5%;
+    font-size: 2rem;
+    color: #FFF8CD;
+}
+.copy{
+    color: #FFE05D;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    font-family:'Times New Roman', Times, serif ;
+}
+/* --------------index--------- */
+#about{
+    text-align: center;
+    background-color: #FFE05D;
+}
+#name1{
+    font-size: 7rem;
+    padding: 5%;
+    background-color: #312f2f ;
+    color: #FFF8CD;
+}
+.my-photo{
+    width: 80%;
+    text-align: center;
+    padding: 3% 6%;
+}
+.words{
+font-size: 110%;
+text-align: left;
+font-family: 'Tomorrow', sans-serif;
+color:#312f2f ;
+font-weight: 600;
+padding: 4% 10%;
+line-height: 2.2;
+background-color: #312f2f ;
+color: #FFF8CD;
+}
+/* ----------certifictaes------------ */
+#certifi{
+    background-color:#FFF8CD ;
+    text-align: center;
+}
+.python{
+    width: 100%;
+    padding: 5% 10%;
+}
+#sdp{
+    width: 55%;
+    padding: 5% 10%;
+}
+#hack{
+    width: 55%;
+    padding: 5% 10%;
+}
+.p{
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 1.7rem;
+    padding: 2% 5%;
+    color:#312f2f ;
+}
+#certifi h1{
+    font-size: 3.5rem;
+    padding: 3% 7%;
+    color:#312f2f ;
+}
+@media (max-width: 1028px) {
+    #sdp{
+        width: 100%;
+        padding: 5% 10%;
+    }
+    #hack{
+        width: 100%;
+        padding: 5% 10%;
+    }
+  }
+  /* ---------------projects-------- */
+  #project{
+      background-color:#FFE05D;
+  }
+  #project h1{
+      font-size: 6rem;
+      font-family: 'Tomorrow', sans-serif;
+      color:#312f2f ;
+  }
